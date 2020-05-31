@@ -1,0 +1,19 @@
+hello friends,
+ welcome to my channel online education. 
+aaj hm padhenge AWS ki IAM service ke aage ka part 3
+
+TOPICS:-
+1- multifactor authenticator
+2- create and access mgmt
+3- attach & detach IAM policies with IAM user and group.
+4- Create IAM group.
+5- How to access AWS account using AWS CLI.
+6- IAM roles.
+
+humne last part me multifactor authenticator topic cover kar lia hai.
+ Agar aap ne nhi dekha wo vedio to i button pr click kr k dekh le.
+taki ye part samajhne me aasani ho. aaj ka topic start krne se phle aap mere channel 
+ko subscribe jrur kr le or bell icon ko press krna na bhule taki aage ke vedios aap 
+ko sbse pahle mile.
+
+   Lets begin!!!!
